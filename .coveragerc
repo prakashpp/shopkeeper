@@ -1,0 +1,5 @@
+[run]
+source = trytond.modules.shopkeeper
+
+[report]
+omit = */tests/*, */setup.py
