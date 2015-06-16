@@ -1,0 +1,10 @@
+<data>
+    <xpath expr="/form/notebook" position="inside">
+        <page string="Shopkeeper" id="shopkeeper">
+            <label name="customer"/>
+            <field name="customer"/>
+            <label name="supplier"/>
+            <field name="supplier"/>
+        </page>
+    </xpath>
+</data>
